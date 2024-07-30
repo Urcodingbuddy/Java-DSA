@@ -1,10 +1,10 @@
 package com.ansh;
+import java.util.Scanner;
 
-/**
- * Main
- */
 public class Main {
     public static void main(String[] args) {
-          System.out.println(args[0]);
+        Scanner input = new Scanner(System.in);
+        System.out.println(input.nextLine());
+
     }
 }
