@@ -1,5 +1,4 @@
 package com.questions;
-
 import java.util.Arrays;
 
 public class SwapNum {
