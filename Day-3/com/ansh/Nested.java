@@ -1,4 +1,4 @@
-package ansh;
+package com.ansh;
 
 import java.util.Scanner;
 
