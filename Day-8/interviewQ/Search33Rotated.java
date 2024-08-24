@@ -1,4 +1,4 @@
-package leetcode;
+package interviewQ;
 
 public class Search33Rotated {
     public int search(int[] nums, int target) {
